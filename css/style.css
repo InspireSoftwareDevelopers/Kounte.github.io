@@ -1191,7 +1191,7 @@ article {
 
 #team {
   margin: 50px 0;
-  background: #02bdd5;
+  background: #00A6BB;
 }
 
 .team-member {
@@ -1357,11 +1357,10 @@ px      68    160    252    */
   }
   #about {
     padding: 70px 0;
-    
   }
   #about .block {
-    padding: 0px;
-   
+    padding: 0;
+  }
   figure .buttons {
     left: 16%;
   }
@@ -1440,12 +1439,10 @@ px      68    160    252    */
     margin-top: 8px;
   }
   #about {
-    padding:70px 0;
-     
+    padding: 70px 0;
   }
   #about .block {
-    padding:  0;
-    
+    padding: 0;
   }
   figure .buttons {
     left: 16%;
